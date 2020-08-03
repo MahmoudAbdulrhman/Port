@@ -321,7 +321,7 @@ header {
     width: 100%;
     flex-direction: column;
     align-items: center;
-    background-image: url("../Image/Hero-1.JPG");
+    background-image: url("../Image/hero-1.jpg");
     display: flex ;
     background-size: cover ;
     background-position: 80%;
@@ -340,7 +340,7 @@ header nav ul {
 .hero   {
     width: 119%;
     height: 600px;
-    background-image: url("../Image/Hero-1.JPG");
+    background-image: url("../Image/hero-1.jpg");
     background-size: cover;
     display: flex;
     flex-wrap: wrap; 
