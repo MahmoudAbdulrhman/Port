@@ -13,7 +13,7 @@ body {
 /*header style start*/
 header {
     padding: 10px 35px;
-    background-image: url("../Image/Hero-1.JPG");
+    background-image: url("../Image/hero-1.jpg");
     display: flex ;
     background-size: cover ;
     background-position: 80%;
@@ -74,7 +74,7 @@ header nav ul li a:hover {
 .hero   {
     
     height: 600px;
-    background-image: url("../Image/Hero-1.JPG");
+    background-image: url("../Image/hero-1.jpg");
     background-size: cover;
     display: flex;
     flex-wrap: wrap; 
